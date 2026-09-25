@@ -1,0 +1,7 @@
+{
+  "title": "Backend Python Developer",
+  "must_have_skills": ["Python", "SQL", "REST API", "Git"],
+  "nice_to_have_skills": ["Docker", "AWS", "PostgreSQL", "CI/CD"],
+  "min_years_experience": 3,
+  "description": "Шукаємо middle/senior Python-розробника у команду backend. Робота з REST API, реляційними БД, участь у код-рев'ю та CI/CD процесах."
+}
