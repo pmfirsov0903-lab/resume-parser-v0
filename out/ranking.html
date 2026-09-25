@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>Рейтинг кандидатів — Backend Python Developer</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; background-color: #f4f5f7; color: #333; margin: 0; padding: 30px; }
+        .container { max-width: 1100px; margin: 0 auto; background: #fff; padding: 30px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); }
+        h1 { color: #111; font-size: 24px; margin-bottom: 5px; }
+        .subtitle { color: #666; font-size: 14px; margin-bottom: 25px; }
+        table { width: 100%; border-collapse: collapse; margin-top: 15px; }
+        th, td { padding: 14px 16px; text-align: left; border-bottom: 1px solid #eee; font-size: 14px; }
+        th { background-color: #fafbfc; font-weight: 600; color: #444; }
+        tr:hover { background-color: #f8fafc; }
+        .score-badge { display: inline-block; padding: 6px 12px; border-radius: 20px; font-weight: bold; font-size: 13px; text-align: center; }
+        .score-high { background-color: #e6f4ea; color: #137333; }
+        .score-mid { background-color: #fef7e0; color: #b06000; }
+        .score-low { background-color: #fce8e6; color: #c5221f; }
+        .score-none { background-color: #f1f3f4; color: #5f6368; }
+        .reason { color: #555; line-height: 1.4; }
+        .filename { font-family: monospace; font-size: 12px; color: #666; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Результати скринінгу резюме</h1>
+        <div class="subtitle">Вакансія: <strong>Backend Python Developer</strong></div>
+        
+        <table>
+            <thead>
+                <tr>
+                    <th style="width: 60px;">#</th>
+                    <th style="width: 200px;">Кандидат / Файл</th>
+                    <th style="width: 90px; text-align: center;">Бали</th>
+                    <th>Обґрунтування / Вердикт</th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td><strong>1</strong></td>
+                    <td>
+                        <div style="font-weight: 600; font-size: 15px;">Ivan Petrenko</div>
+                        <div class="filename">01_strong_senior_dev.docx</div>
+                    </td>
+                    <td style="text-align: center;"><span class="score-badge score-high">90</span></td>
+                    <td class="reason">Кандидат має 7 років досвіду (перевищує вимогу 3+ роки). Skills: Python ✓, Git ✓ - явно вказані. SQL не вказано напряму, але наявність PostgreSQL сильно натякає на знання SQL. REST API не вказано як окремий skill, але досвід з Django/FastAPI практично гарантує роботу з REST API. Всі nice-to-have навички присутні: Docker, AWS, PostgreSQL, CI/CD - повне покриття. Досвід роботи (Lead Backend Developer, Python Developer) відповідає рівню middle/senior, що шукає вакансія. Незначний мінус за відсутність прямої згадки SQL та REST API в списку skills, хоча контекстно вони покриваються.</td>
+                </tr>
+
+                <tr>
+                    <td><strong>2</strong></td>
+                    <td>
+                        <div style="font-weight: 600; font-size: 15px;">Oleksandr Bondar</div>
+                        <div class="filename">03_strong_backend.docx</div>
+                    </td>
+                    <td style="text-align: center;"><span class="score-badge score-high">83</span></td>
+                    <td class="reason">Кандидат має 6 років досвіду (перевищує вимогу 3+ роки) та сильний стек навичок, що добре відповідає позиції middle/senior Python-розробника. З must-have навичок: Python та Git присутні явно; SQL не вказано напряму, але наявність PostgreSQL натякає на роботу з реляційними БД; REST API не вказано як окрема навичка, проте досвід з FastAPI/Flask типово передбачає побудову REST API. З nice-to-have: Docker, AWS, PostgreSQL присутні, що є значним плюсом; CI/CD не згадано явно. Досвід роботи (Senior Python Dev у CloudScale) підтверджує рівень seniority, що відповідає вакансії. Загалом кандидат добре відповідає вимогам, хоча відсутність явних згадок SQL, REST API та CI/CD як навичок трохи знижує впевненість в повній відповідності.</td>
+                </tr>
+
+                <tr>
+                    <td><strong>3</strong></td>
+                    <td>
+                        <div style="font-weight: 600; font-size: 15px;">Dmytro Melnyk</div>
+                        <div class="filename">04_middle_python.docx</div>
+                    </td>
+                    <td style="text-align: center;"><span class="score-badge score-high">78</span></td>
+                    <td class="reason">Кандидат відповідає більшості вимог вакансії. З must-have skills: Python ✓, REST API ✓, Git ✓ присутні явно; SQL не вказано напряму, але наявність PostgreSQL в навичках дозволяє припустити базові знання SQL. Досвід роботи (3.0 роки) точно відповідає мінімальній вимозі (3.0 роки). З nice-to-have skills: Docker ✓ та PostgreSQL ✓ присутні, але AWS та CI/CD не вказані в профілі. Досвід роботи (Python Developer у StartupHub, Junior Developer у WebSoft) відповідає профілю middle-рівня. Освіта релевантна (CS degree). Загалом кандидат добре підходить під позицію, хоча відсутність явного досвіду з CI/CD та AWS дещо знижує відповідність nice-to-have критеріям.</td>
+                </tr>
+
+                <tr>
+                    <td><strong>4</strong></td>
+                    <td>
+                        <div style="font-weight: 600; font-size: 15px;">Maria Kovalenko</div>
+                        <div class="filename">02_strong_architect.docx</div>
+                    </td>
+                    <td style="text-align: center;"><span class="score-badge score-mid">74</span></td>
+                    <td class="reason">Кандидат має 9 років досвіду (значно більше вимоги 3 роки) та посаду Tech Lead/Senior Backend Engineer, що свідчить про високий рівень кваліфікації. З must-have навичок явно підтверджено лише Python; SQL, REST API та Git не вказані у списку skills, хоча ймовірно присутні неявно (через Django/FastAPI/PostgreSQL досвід). З nice-to-have покриті Docker, AWS, PostgreSQL — це сильний бонус, CI/CD не згадано явно. Загалом профіль виглядає дуже досвідченим і релевантним для позиції middle/senior Python backend, але відсутність прямого підтвердження деяких must-have skills у резюме трохи знижує впевненість в повній відповідності формальним вимогам.</td>
+                </tr>
+
+                <tr>
+                    <td><strong>5</strong></td>
+                    <td>
+                        <div style="font-weight: 600; font-size: 15px;">Yuliia Shevchenko</div>
+                        <div class="filename">05_middle_fullstack.docx</div>
+                    </td>
+                    <td style="text-align: center;"><span class="score-badge score-mid">72</span></td>
+                    <td class="reason">Кандидат відповідає більшості ключових вимог: має Python (3.5 роки досвіду, що перевищує мінімальні 3 роки), досвід роботи з REST API (згадано в описі роботи з інтеграцією платіжних систем), Git. SQL явно не вказано в skills, але наявність PostgreSQL передбачає базові знання SQL. З nice-to-have присутній лише PostgreSQL, відсутні Docker, AWS та CI/CD, хоча в описі вакансії згадується участь у CI/CD процесах. Кандидат має релевантний досвід fullstack-розробки з фокусом на Python (Flask/FastAPI), що добре узгоджується з позицією backend-розробника. Відсутність Docker/AWS/CI/CD знижує оцінку, але основні технічні вимоги виконані.</td>
+                </tr>
+
+                <tr>
+                    <td><strong>6</strong></td>
+                    <td>
+                        <div style="font-weight: 600; font-size: 15px;">Andrii Boyko</div>
+                        <div class="filename">06_middle_data_engineer.docx</div>
+                    </td>
+                    <td style="text-align: center;"><span class="score-badge score-mid">62</span></td>
+                    <td class="reason">Кандидат має 4 роки досвіду (перевищує вимогу 3+ роки) та володіє ключовими навичками: Python, SQL, Git — усі присутні. Проте досвід роботи як 'Data Engineer' (не Backend Developer) не підтверджує явного досвіду з REST API, що є критичною вимогою вакансії. З nice-to-have навичок присутні Docker та PostgreSQL, що є плюсом, але AWS та CI/CD не вказані. Освіта (Bachelor's in Cybernetics) релевантна технічній ролі. Загалом профіль сильний технічно, але фокус роботи (Data Engineering vs Backend Development) та відсутність підтвердженого REST API досвіду знижують відповідність вакансії.</td>
+                </tr>
+
+                <tr>
+                    <td><strong>7</strong></td>
+                    <td>
+                        <div style="font-weight: 600; font-size: 15px;">Serhii Tkachenko</div>
+                        <div class="filename">07_middle_support.docx</div>
+                    </td>
+                    <td style="text-align: center;"><span class="score-badge score-low">38</span></td>
+                    <td class="reason">Кандидат має 3 з 4 must-have навичок (Python, SQL, Git), але відсутній явний досвід з REST API. Формально відповідає мінімальному досвіду (3 роки), однак фактична посада 'Support Engineer' не підтверджує практичного досвіду саме як Python backend-розробника, що суттєво знижує відповідність вакансії middle/senior рівня. Жодна з nice-to-have навичок (Docker, AWS, PostgreSQL, CI/CD) не вказана в профілі. Освіта релевантна (IT), але без явного бекенд-досвіду ризик низької технічної готовності до ролі значний.</td>
+                </tr>
+
+                <tr>
+                    <td><strong>8</strong></td>
+                    <td>
+                        <div style="font-weight: 600; font-size: 15px;">Victoria Moroz</div>
+                        <div class="filename">08_junior_dev.docx</div>
+                    </td>
+                    <td style="text-align: center;"><span class="score-badge score-low">18</span></td>
+                    <td class="reason">Кандидат має базові знання Python та Git, що частково перекриває must-have вимоги, але критично не відповідає позиції middle/senior Python-розробника. Досвід роботи практично відсутній (лише фріланс з 2025 року, менше року), тоді як вимагається мінімум 3 роки. SQL представлений лише на базовому рівні (SQLite, Basic SQL), немає жодного досвіду з REST API, що є одним із ключових must-have навичок. Відсутні всі nice-to-have навички: Docker, AWS, PostgreSQL, CI/CD. Освіта — студент, ще не завершив навчання. Профіль відповідає junior/trainee рівню, а не middle/senior, що вимагає вакансія.</td>
+                </tr>
+
+                <tr>
+                    <td><strong>9</strong></td>
+                    <td>
+                        <div style="font-weight: 600; font-size: 15px;">Denys Lysenko</div>
+                        <div class="filename">09_frontend_only.docx</div>
+                    </td>
+                    <td style="text-align: center;"><span class="score-badge score-low">3</span></td>
+                    <td class="reason">Кандидат є Frontend Developer зі стеком JavaScript/React/TypeScript, без жодного досвіду з Python, SQL, REST API (як backend) чи Git не згадано взагалі. Досвід 4 роки відповідає мінімальним вимогам за роками, але повністю відсутні всі must-have та nice-to-have навички, необхідні для позиції Backend Python Developer. Освіта та профіль не пов'язані з backend-розробкою.</td>
+                </tr>
+
+                <tr>
+                    <td><strong>10</strong></td>
+                    <td>
+                        <div style="font-weight: 600; font-size: 15px;">Tetiana Koval</div>
+                        <div class="filename">10_irrelevant_candidate.docx</div>
+                    </td>
+                    <td style="text-align: center;"><span class="score-badge score-low">2</span></td>
+                    <td class="reason">Кандидат має досвід у продажах та управлінні клієнтами, без жодного технічного досвіду. Відсутні всі ключові навички (Python, SQL, REST API, Git) та бажані навички (Docker, AWS, PostgreSQL, CI/CD). Освіта та досвід роботи не пов'язані з розробкою програмного забезпечення. Кандидат не відповідає вимогам вакансії Backend Python Developer.</td>
+                </tr>
+
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

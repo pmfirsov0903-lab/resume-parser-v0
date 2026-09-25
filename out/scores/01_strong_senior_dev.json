@@ -1,0 +1,7 @@
+{
+  "score": 90,
+  "matched_must_have": [],
+  "missing_must_have": [],
+  "matched_nice_to_have": [],
+  "explanation": "Кандидат має 7 років досвіду (перевищує вимогу 3+ роки). Skills: Python ✓, Git ✓ - явно вказані. SQL не вказано напряму, але наявність PostgreSQL сильно натякає на знання SQL. REST API не вказано як окремий skill, але досвід з Django/FastAPI практично гарантує роботу з REST API. Всі nice-to-have навички присутні: Docker, AWS, PostgreSQL, CI/CD - повне покриття. Досвід роботи (Lead Backend Developer, Python Developer) відповідає рівню middle/senior, що шукає вакансія. Незначний мінус за відсутність прямої згадки SQL та REST API в списку skills, хоча контекстно вони покриваються."
+}

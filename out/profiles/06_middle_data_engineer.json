@@ -1,0 +1,32 @@
+{
+  "name": "Andrii Boyko",
+  "contacts": {
+    "email": "andrii.boyko.data@gmail.com",
+    "phone": "+380936667788"
+  },
+  "years_experience": 4.0,
+  "skills": [
+    "Python",
+    "Pandas",
+    "SQL",
+    "PostgreSQL",
+    "Airflow",
+    "Docker",
+    "Git"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's in Cybernetics",
+      "institution": "KPI",
+      "year": "2020"
+    }
+  ],
+  "work_history": [
+    {
+      "company": "DataCorp",
+      "title": "Data Engineer",
+      "period": "2022 - Present",
+      "description": ""
+    }
+  ]
+}

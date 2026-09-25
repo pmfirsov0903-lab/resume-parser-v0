@@ -1,0 +1,41 @@
+{
+  "name": "Maria Kovalenko",
+  "contacts": {
+    "email": "m.kovalenko@example.com",
+    "phone": "+380672223344"
+  },
+  "years_experience": 9.0,
+  "skills": [
+    "Python",
+    "Django",
+    "FastAPI",
+    "PostgreSQL",
+    "AWS",
+    "Kafka",
+    "Docker",
+    "Kubernetes",
+    "System Design",
+    "Leadership"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's in Software Engineering",
+      "institution": "KPI",
+      "year": "2016"
+    }
+  ],
+  "work_history": [
+    {
+      "company": "Enterprise Solutions",
+      "title": "Tech Lead",
+      "period": "2020 - Present",
+      "description": ""
+    },
+    {
+      "company": "DataSystems",
+      "title": "Senior Backend Engineer",
+      "period": "2016 - 2020",
+      "description": ""
+    }
+  ]
+}

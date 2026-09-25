@@ -1,0 +1,7 @@
+{
+  "score": 62,
+  "matched_must_have": [],
+  "missing_must_have": [],
+  "matched_nice_to_have": [],
+  "explanation": "Кандидат має 4 роки досвіду (перевищує вимогу 3+ роки) та володіє ключовими навичками: Python, SQL, Git — усі присутні. Проте досвід роботи як 'Data Engineer' (не Backend Developer) не підтверджує явного досвіду з REST API, що є критичною вимогою вакансії. З nice-to-have навичок присутні Docker та PostgreSQL, що є плюсом, але AWS та CI/CD не вказані. Освіта (Bachelor's in Cybernetics) релевантна технічній ролі. Загалом профіль сильний технічно, але фокус роботи (Data Engineering vs Backend Development) та відсутність підтвердженого REST API досвіду знижують відповідність вакансії."
+}

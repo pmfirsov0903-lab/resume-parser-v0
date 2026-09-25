@@ -1,0 +1,37 @@
+{
+  "name": "Dmytro Melnyk",
+  "contacts": {
+    "email": "d.melnyk@ukr.net",
+    "phone": "+380504445566"
+  },
+  "years_experience": 3.0,
+  "skills": [
+    "Python",
+    "Django",
+    "PostgreSQL",
+    "Git",
+    "Docker",
+    "REST API"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's in Computer Science",
+      "institution": "Kharkiv National University",
+      "year": "2021"
+    }
+  ],
+  "work_history": [
+    {
+      "company": "StartupHub",
+      "title": "Python Developer",
+      "period": "2022 - Present",
+      "description": ""
+    },
+    {
+      "company": "WebSoft",
+      "title": "Junior Developer",
+      "period": "2021 - 2022",
+      "description": ""
+    }
+  ]
+}

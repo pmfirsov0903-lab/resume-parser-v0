@@ -1,0 +1,7 @@
+{
+  "score": 2,
+  "matched_must_have": [],
+  "missing_must_have": [],
+  "matched_nice_to_have": [],
+  "explanation": "Кандидат має досвід у продажах та управлінні клієнтами, без жодного технічного досвіду. Відсутні всі ключові навички (Python, SQL, REST API, Git) та бажані навички (Docker, AWS, PostgreSQL, CI/CD). Освіта та досвід роботи не пов'язані з розробкою програмного забезпечення. Кандидат не відповідає вимогам вакансії Backend Python Developer."
+}

@@ -1,0 +1,7 @@
+{
+  "score": 3,
+  "matched_must_have": [],
+  "missing_must_have": [],
+  "matched_nice_to_have": [],
+  "explanation": "Кандидат є Frontend Developer зі стеком JavaScript/React/TypeScript, без жодного досвіду з Python, SQL, REST API (як backend) чи Git не згадано взагалі. Досвід 4 роки відповідає мінімальним вимогам за роками, але повністю відсутні всі must-have та nice-to-have навички, необхідні для позиції Backend Python Developer. Освіта та профіль не пов'язані з backend-розробкою."
+}

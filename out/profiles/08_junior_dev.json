@@ -1,0 +1,30 @@
+{
+  "name": "Victoria Moroz",
+  "contacts": {
+    "email": "v.moroz.junior@gmail.com",
+    "phone": "+380678889900"
+  },
+  "years_experience": null,
+  "skills": [
+    "Python",
+    "Git",
+    "SQLite",
+    "Basic SQL",
+    "HTML/CSS"
+  ],
+  "education": [
+    {
+      "degree": "Student at Computer Science faculty",
+      "institution": "Kyiv Polytechnic",
+      "year": null
+    }
+  ],
+  "work_history": [
+    {
+      "company": "Freelance",
+      "title": "Trainee / Junior",
+      "period": "2025 - Present",
+      "description": "Built simple Telegram bots and web scrapers using Python and BeautifulSoup."
+    }
+  ]
+}

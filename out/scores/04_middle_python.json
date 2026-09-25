@@ -1,0 +1,7 @@
+{
+  "score": 78,
+  "matched_must_have": [],
+  "missing_must_have": [],
+  "matched_nice_to_have": [],
+  "explanation": "Кандидат відповідає більшості вимог вакансії. З must-have skills: Python ✓, REST API ✓, Git ✓ присутні явно; SQL не вказано напряму, але наявність PostgreSQL в навичках дозволяє припустити базові знання SQL. Досвід роботи (3.0 роки) точно відповідає мінімальній вимозі (3.0 роки). З nice-to-have skills: Docker ✓ та PostgreSQL ✓ присутні, але AWS та CI/CD не вказані в профілі. Досвід роботи (Python Developer у StartupHub, Junior Developer у WebSoft) відповідає профілю middle-рівня. Освіта релевантна (CS degree). Загалом кандидат добре підходить під позицію, хоча відсутність явного досвіду з CI/CD та AWS дещо знижує відповідність nice-to-have критеріям."
+}

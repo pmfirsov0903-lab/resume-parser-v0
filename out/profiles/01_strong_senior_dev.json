@@ -1,0 +1,42 @@
+{
+  "name": "Ivan Petrenko",
+  "contacts": {
+    "email": "ivan.petrenko.dev@gmail.com",
+    "phone": "+380501112233"
+  },
+  "years_experience": 7.0,
+  "skills": [
+    "Python",
+    "FastAPI",
+    "Django",
+    "PostgreSQL",
+    "Docker",
+    "AWS",
+    "Git",
+    "Celery",
+    "Redis",
+    "CI/CD",
+    "Kubernetes"
+  ],
+  "education": [
+    {
+      "degree": "Master's degree in Computer Science",
+      "institution": "National University of Kyiv",
+      "year": "2018"
+    }
+  ],
+  "work_history": [
+    {
+      "company": "TechCorp",
+      "title": "Lead Backend Developer",
+      "period": "2021 - Present",
+      "description": ""
+    },
+    {
+      "company": "SoftSolutions",
+      "title": "Python Developer",
+      "period": "2018 - 2021",
+      "description": ""
+    }
+  ]
+}

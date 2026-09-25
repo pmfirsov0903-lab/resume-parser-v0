@@ -1,0 +1,7 @@
+{
+  "score": 74,
+  "matched_must_have": [],
+  "missing_must_have": [],
+  "matched_nice_to_have": [],
+  "explanation": "Кандидат має 9 років досвіду (значно більше вимоги 3 роки) та посаду Tech Lead/Senior Backend Engineer, що свідчить про високий рівень кваліфікації. З must-have навичок явно підтверджено лише Python; SQL, REST API та Git не вказані у списку skills, хоча ймовірно присутні неявно (через Django/FastAPI/PostgreSQL досвід). З nice-to-have покриті Docker, AWS, PostgreSQL — це сильний бонус, CI/CD не згадано явно. Загалом профіль виглядає дуже досвідченим і релевантним для позиції middle/senior Python backend, але відсутність прямого підтвердження деяких must-have skills у резюме трохи знижує впевненість в повній відповідності формальним вимогам."
+}

@@ -1,0 +1,32 @@
+{
+  "name": "Denys Lysenko",
+  "contacts": {
+    "email": "denys.frontend@gmail.com",
+    "phone": "+380939990011"
+  },
+  "years_experience": 4.0,
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Redux",
+    "HTML",
+    "CSS",
+    "Tailwind"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's in Design",
+      "institution": "Kharkiv Academy of Design",
+      "year": "2022"
+    }
+  ],
+  "work_history": [
+    {
+      "company": "WebArt",
+      "title": "Frontend Developer",
+      "period": "2022 - Present",
+      "description": "Developed UI components with React and Redux."
+    }
+  ]
+}
