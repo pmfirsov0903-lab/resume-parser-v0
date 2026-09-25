@@ -1,0 +1,7 @@
+{
+  "score": 80,
+  "matched_must_have": [],
+  "missing_must_have": [],
+  "matched_nice_to_have": [],
+  "explanation": "Кандидат має 9 років досвіду (значно перевищує вимогу 3+ роки) та сильний технічний профіль: Python, PostgreSQL, AWS, Docker – все це відповідає nice-to-have та частково must-have вимогам. Досвід роботи з Django, FastAPI, Flask практично гарантує знання REST API, а робота з PostgreSQL передбачає знання SQL, хоча ці навички не вказані явно у списку skills. Git та CI/CD не згадані явно, але для Tech Lead/Senior Backend Engineer з таким досвідом це типові навички. Кандидат перевершує вимоги за рівнем (Tech Lead, System Design, Leadership), що може означати надмірну кваліфікацію для middle/senior позиції, але це не є негативним фактором для оцінки відповідності. Загалом профіль дуже сильний, з незначними прогалинами в явній вказівці деяких must-have навичок."
+}

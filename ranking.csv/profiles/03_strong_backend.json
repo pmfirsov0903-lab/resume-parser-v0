@@ -1,0 +1,40 @@
+{
+  "name": "Oleksandr Bondar",
+  "contacts": {
+    "email": "o.bondar.Dev@gmail.com",
+    "phone": "+380933334455"
+  },
+  "years_experience": 6.0,
+  "skills": [
+    "Python",
+    "FastAPI",
+    "Flask",
+    "PostgreSQL",
+    "Redis",
+    "Docker",
+    "Pytest",
+    "Git",
+    "AWS"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's in Applied Mathematics",
+      "institution": "Lviv Polytechnic",
+      "year": "2018"
+    }
+  ],
+  "work_history": [
+    {
+      "company": "CloudScale",
+      "title": "Senior Python Dev",
+      "period": "2019 - Present",
+      "description": ""
+    },
+    {
+      "company": "WebDev Studio",
+      "title": "Software Developer",
+      "period": "2018 - 2019",
+      "description": ""
+    }
+  ]
+}

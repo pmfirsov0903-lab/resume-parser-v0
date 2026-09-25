@@ -1,0 +1,30 @@
+{
+  "name": "Serhii Tkachenko",
+  "contacts": {
+    "email": "s.tkachenko@gmail.com",
+    "phone": "+380507778899"
+  },
+  "years_experience": 3.0,
+  "skills": [
+    "Python",
+    "Linux",
+    "Bash",
+    "SQL",
+    "Git"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's in IT",
+      "institution": "Vinnytsia National Technical University",
+      "year": "2023"
+    }
+  ],
+  "work_history": [
+    {
+      "company": "IT Service Group",
+      "title": "Support Engineer",
+      "period": "2023 - Present",
+      "description": ""
+    }
+  ]
+}

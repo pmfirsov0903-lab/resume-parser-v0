@@ -1,0 +1,7 @@
+{
+  "score": 68,
+  "matched_must_have": [],
+  "missing_must_have": [],
+  "matched_nice_to_have": [],
+  "explanation": "Кандидат має релевантний досвід (3.5 роки, що відповідає мінімальним 3 рокам) та володіє Python і Git — двома з чотирьох must-have навичок. SQL та REST API не вказані явно у списку навичок, хоча досвід з FastAPI/Flask та PostgreSQL опосередковано свідчить про ймовірну роботу з REST API та SQL-запитами, що знижує впевненість в повній відповідності must-have вимогам. З nice-to-have навичок є лише PostgreSQL; відсутні Docker, AWS, CI/CD. Загальний профіль (fullstack розробник з фокусом на Python) частково відповідає вакансії backend Python developer, але потребує уточнення щодо безпосереднього досвіду з SQL, REST API та CI/CD процесами."
+}

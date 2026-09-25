@@ -1,0 +1,7 @@
+{
+  "score": 84,
+  "matched_must_have": [],
+  "missing_must_have": [],
+  "matched_nice_to_have": [],
+  "explanation": "Кандидат має 6 років досвіду (перевищує вимогу 3+ роки) та сильний технічний профіль. Must-have: Python ✓, Git ✓ явно вказані. SQL та REST API не вказані буквально в списку навичок, але кандидат працює з PostgreSQL (що передбачає знання SQL) та використовує FastAPI/Flask (фреймворки, орієнтовані на REST API), тож ці навички ймовірно присутні на практиці. Nice-to-have: Docker ✓, AWS ✓, PostgreSQL ✓ покриті; CI/CD не згадано явно, хоча досвід Senior-розробника це не виключає. Загалом кандидат добре відповідає позиції middle/senior Python backend developer, є невелика невизначеність через відсутність явних згадок SQL, REST API та CI/CD в резюме."
+}

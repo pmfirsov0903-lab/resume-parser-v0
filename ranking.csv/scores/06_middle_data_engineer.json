@@ -1,0 +1,7 @@
+{
+  "score": 58,
+  "matched_must_have": [],
+  "missing_must_have": [],
+  "matched_nice_to_have": [],
+  "explanation": "Кандидат має 4 роки досвіду (відповідає вимозі 3+ роки) та володіє Python, SQL, Git з must-have списку. Однак немає явного досвіду з REST API, що є критичною вимогою для позиції Backend Developer. Профіль більше відповідає ролі Data Engineer (робота з Pandas, Airflow, ETL-процесами), ніж Backend Python Developer. З nice-to-have skills є Docker та PostgreSQL, але відсутні AWS та CI/CD. Загальний технічний стек частково перетинається, але фокус кандидата (data engineering) відрізняється від вимог вакансії (backend/API розробка)."
+}

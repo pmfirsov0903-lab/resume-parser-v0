@@ -1,0 +1,32 @@
+{
+  "name": "Yuliia Shevchenko",
+  "contacts": {
+    "email": "yuliia.sh@gmail.com",
+    "phone": "+380675556677"
+  },
+  "years_experience": 3.5,
+  "skills": [
+    "Python",
+    "FastAPI",
+    "Flask",
+    "JavaScript",
+    "React",
+    "PostgreSQL",
+    "Git"
+  ],
+  "education": [
+    {
+      "degree": "Master's in Economics and IT",
+      "institution": "Kyiv Taras Shevchenko University",
+      "year": "2022"
+    }
+  ],
+  "work_history": [
+    {
+      "company": "DigitalAgency",
+      "title": "Fullstack Dev",
+      "period": "2022 - Present",
+      "description": ""
+    }
+  ]
+}

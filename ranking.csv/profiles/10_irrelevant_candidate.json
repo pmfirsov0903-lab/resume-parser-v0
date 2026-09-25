@@ -1,0 +1,31 @@
+{
+  "name": "Tetiana Koval",
+  "contacts": {
+    "email": "tetiana.sales@gmail.com",
+    "phone": "+380500001122"
+  },
+  "years_experience": 3.0,
+  "skills": [
+    "Client Communication",
+    "B2B Sales",
+    "CRM",
+    "Negotiation",
+    "Excel",
+    "English (C1)"
+  ],
+  "education": [
+    {
+      "degree": "Bachelor's in International Relations",
+      "institution": "Kyiv Linguistic University",
+      "year": "2021"
+    }
+  ],
+  "work_history": [
+    {
+      "company": "TradeGlobal",
+      "title": "Account Manager",
+      "period": "2021 - Present",
+      "description": "Managed key client accounts, increased sales retention by 20%."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "score": 15,
+  "matched_must_have": [],
+  "missing_must_have": [],
+  "matched_nice_to_have": [],
+  "explanation": "Кандидат є студентом/трейні без підтвердженого досвіду роботи (min_years_experience=3 не виконується). Має лише базові навички Python, Git та SQLite/Basic SQL, відсутні ключові must-have навички REST API. Nice-to-have (Docker, AWS, PostgreSQL, CI/CD) також відсутні. Рівень позиції (middle/senior) значно перевищує поточний рівень кандидата (junior/trainee), що робить відповідність вакансії дуже низькою."
+}

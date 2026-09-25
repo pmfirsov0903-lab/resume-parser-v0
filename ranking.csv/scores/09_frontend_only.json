@@ -1,0 +1,7 @@
+{
+  "score": 5,
+  "matched_must_have": [],
+  "missing_must_have": [],
+  "matched_nice_to_have": [],
+  "explanation": "Кандидат має досвід 4 роки, що відповідає вимозі мінімального стажу, проте всі навички (JavaScript, TypeScript, React, Redux, HTML, CSS, Tailwind) стосуються фронтенд-розробки. Жодного з must-have навичок (Python, SQL, REST API, Git) чи nice-to-have (Docker, AWS, PostgreSQL, CI/CD) не вказано. Досвід роботи та освіта також не пов'язані з backend-розробкою на Python. Відповідність вакансії дуже низька."
+}
